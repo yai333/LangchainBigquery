@@ -1,7 +1,7 @@
-# Data Analytics Assistant with Langchain and This project demonstrates how to use Langchain and OpenAI to automate data analysis tasks, making it easier to derive insights from large datasets. The application connects to a BigQuery dataset, utilizes custom tools for data privacy and visualization, and provides an interactive interface through a Streamlit app.
+Data Analytics Assistant with Langchain and This project demonstrates how to use Langchain and OpenAI to automate data analysis tasks, making it easier to derive insights from large datasets. The application connects to a BigQuery dataset, utilizes custom tools for data privacy and visualization, and provides an interactive interface through a Streamlit app.
 https://yia333.medium.com/leveraging-generative-ai-for-data-analytics-with-langchain-and-openai-ce95b1fbaff2
 
-#Create and activate a virtual environment (optional but recommended):
+Create and activate a virtual environment (optional but recommended):
 
 ```
 python3 -m venv env
